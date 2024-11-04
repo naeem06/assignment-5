@@ -19,7 +19,7 @@ export default function Home() {
 
 
       <div id="section2" className="w-[50%] pt-[50px] pl-[50px]">
-     <div id="img" className="w-[462px] h-[647px] p-[50px] ">  <img src="layers.svg" alt="image" />
+     <div id="img" className="w-[462px] h-[647px] p-[50px] ">  <img src={layers.src} alt="image" />
      </div>
       </div>
       </div>
